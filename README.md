@@ -15,6 +15,8 @@ A stunning CSS-only rainbow gradient glowing button with smooth hover animations
 
 - **Colors**: Full spectrum rainbow gradient with 8 distinct colors
 - **Animation Duration**: 20-second continuous loop for smooth color transitions
+
+- 
 - **Blur Intensity**: 5px blur for optimal glow effect
 - **Border Radius**: 10px rounded corners for modern appearance
 - **Active State**: Color inversion when button is clicked
