@@ -11,6 +11,8 @@ A stunning CSS-only rainbow gradient glowing button with smooth hover animations
 - **Responsive Design**: Works across different screen sizes
 - **Pure CSS**: No JavaScript required - all effects achieved with CSS animations
 
+- 
+
 ## 🎨 Visual Effects
 
 - **Colors**: Full spectrum rainbow gradient with 8 distinct colors
